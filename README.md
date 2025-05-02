@@ -135,13 +135,6 @@ The application will be available at:
    - View question status
    - Filter by topics
 
-## 🔒 Security
-
-- JWT-based authentication
-- Password hashing
-- Protected API routes
-- Input validation
-- XSS protection
 
 ## 🤝 Contributing
 
