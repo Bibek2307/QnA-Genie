@@ -2,6 +2,9 @@
 
 Q&A Genie is an intelligent question management system that leverages AI to streamline Q&A sessions in conferences and presentations. It helps speakers manage audience questions efficiently by filtering out redundant questions and prioritizing relevant ones.
 
+## Published Paper in IJSREM
+- [IJSREM](https://ijsrem.com/download/ai-powered-question-management-in-conferences/)
+
 ## 🌟 Features
 
 - **AI-Powered Question Analysis**
